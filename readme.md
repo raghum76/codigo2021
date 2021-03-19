@@ -1,0 +1,1 @@
+configuracion informacion y comandos para instalar/construir el sistema
